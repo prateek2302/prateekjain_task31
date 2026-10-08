@@ -23,3 +23,9 @@ Then open the following routes in your browser:
 - The server listens on port `3000` by default.
 - You can override it with `PORT=4000 npm start`.
 - Invalid routes return a friendly 404 page.
+
+## GitHub Pages
+
+GitHub Pages hosts the project's HTML and CSS as a static site; it does not run the Node.js server.
+The Pages workflow publishes the home page at `/` and `/home/`, with the About and Contact pages at
+`/about/` and `/contact/`. It runs automatically when changes are pushed to `main`.

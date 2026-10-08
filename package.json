@@ -1,0 +1,1 @@
+{"name":"node-web-server-task","version":"1.0.0","description":"Simple Node.js web server assignment","main":"server.js","scripts":{"start":"node server.js"}}
